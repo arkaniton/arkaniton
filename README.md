@@ -65,8 +65,8 @@
 
 ## About
 
-I work with large government and financial datasets — building ML models for forecasting, automating data pipelines, and turning raw numbers into actionable insight.
-My focus areas include financial distress prediction, time-series analysis, and browser automation for data collection.
+Built ML models for forecasting and classification on large datasets; covering the full cycle — from data processing to interpretation of results.
+Core focus: financial forecasting, time-series analysis, and browser automation for data collection.
 I like clean code, reproducible notebooks, and tools that actually get used.
 
 ---
