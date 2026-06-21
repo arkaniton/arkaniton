@@ -6,7 +6,7 @@
 
 # Аркадий Решетько
 
-**Data Analyst · Product Analyst · Строю вещи с помощью Python и данных**
+**Data Analyst · Product Analyst · Data Scientist · Строю вещи с помощью Python и данных**
 
 ---
 
@@ -54,7 +54,7 @@
 
 # Arkadii Reshetko
 
-**Data Analyst · Product Analyst · Building things with Python and data**
+**Data Analyst · Product Analyst · Data Scientist · Building things with Python and data**
 
 ---
 
