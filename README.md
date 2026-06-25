@@ -23,6 +23,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-3b6fb6?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -36,6 +37,7 @@
 |--------|----------|
 | [rfsd-construction-distress](https://github.com/arkaniton/rfsd-construction-distress) | **Флагман.** Финансовый стресс застройщиков РФ на реальных данных РСБУ (RFSD): 5 индикаторов раннего предупреждения, тест Чоу, прогноз ARIMA + Монте-Карло + бутстреп. Вырос из ВКР |
 | [ecommerce-product-analytics](https://github.com/arkaniton/ecommerce-product-analytics) | Продуктовая аналитика на 805K реальных транзакций: retention-когорты, RFM-сегментация, воронка повторных покупок, A/B-тулкит с power-анализом |
+| [audio-genre-cnn](https://github.com/arkaniton/audio-genre-cnn) | **Deep Learning.** CNN (PyTorch + torchaudio) на мел-спектрограммах для классификации жанров GTZAN; честный clip-disjoint сплит и демонстрация утечки данных (Sturm 2013) |
 | [music-affective-dissonance](https://github.com/arkaniton/music-affective-dissonance) | Аффективный диссонанс на 114K реальных треках Spotify: диссонанс как остаток модели valence ~ акустика, классификатор лада major/minor |
 | [visa-slot-bot](https://github.com/arkaniton/visa-slot-bot) | Telegram-бот мониторинга слотов в визовых центрах — Playwright, ротация прокси, уведомления в реальном времени |
 | Productivity Bot | Завершённый продукт (Telegram + Flask-дашборд): честный КПД, детектор аномалий, расчёт ФОТ, 152-ФЗ. Приватный репозиторий — код по запросу |
@@ -71,6 +73,7 @@ I value clean code, reproducible notebooks, and projects built on real data.
 |---------|-------------|
 | [rfsd-construction-distress](https://github.com/arkaniton/rfsd-construction-distress) | **Flagship.** Financial distress of Russian construction developers on real RSBU data (RFSD): a 5-indicator early-warning system, Chow break test, and an ARIMA + Monte-Carlo + bootstrap forecast. Grew out of my thesis |
 | [ecommerce-product-analytics](https://github.com/arkaniton/ecommerce-product-analytics) | Product analytics on 805K real transactions: cohort retention, RFM segmentation, repeat-purchase funnel, and an A/B-test + power-analysis toolkit |
+| [audio-genre-cnn](https://github.com/arkaniton/audio-genre-cnn) | **Deep Learning.** CNN (PyTorch + torchaudio) on mel-spectrograms for GTZAN genre classification; honest clip-disjoint split exposing the dataset's data-leakage (Sturm 2013) |
 | [music-affective-dissonance](https://github.com/arkaniton/music-affective-dissonance) | Affective dissonance on 114K real Spotify tracks: dissonance as the residual of valence ~ acoustics, plus a major/minor classifier |
 | [visa-slot-bot](https://github.com/arkaniton/visa-slot-bot) | Telegram bot monitoring visa-centre appointment slots — Playwright, rotating proxies, real-time alerts |
 | Productivity Bot | A finished product (Telegram + Flask dashboard): tamper-resistant KPI, anomaly detection, payroll. Private repo — code on request |
